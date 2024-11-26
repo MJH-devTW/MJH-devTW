@@ -29,6 +29,7 @@ Welcome to my GitHub! I’m a developer and researcher with a deep passion for r
 
 I’m motivated by the challenge of bringing together high-performance systems, real-time data, and cutting-edge financial analysis. Whether it's optimizing network interactions for a game or creating precise trading algorithms to navigate volatile markets, I enjoy pushing the boundaries of what’s possible with technology.
 
+
 My expertise in C++, Python, and MetaTrader 5 allows me to work across a range of domains, from finance to gaming, all while focusing on real-time performance and data-driven insights. I strive to create impactful projects that deliver both technical excellence and practical value.
 
 ## 📫 Get in touch!
@@ -36,3 +37,11 @@ My expertise in C++, Python, and MetaTrader 5 allows me to work across a range o
 If you're interested in collaborating on real-time systems, financial data analysis, or anything related to C++ or Python, feel free to reach out. I’m always excited to explore new challenges and innovative projects!
 
 Find me on [GitHub]([https://github.com/MJH-devTW)] or connect with me on [LinkedIn](https://linkedin.com/in/yourlinkedin). Let’s collaborate and create something great!
+
+## 聯絡我
+
+如果您對這個策略有興趣，我可以根據您的需求 **客製化調整與修改**，讓策略更符合您的交易風格。也歡迎隨時 **寫 Email 跟我聊天交朋友**，一起討論交易策略或技術分析的想法！
+
+如果您覺得我的能力不錯，還可以 **考慮挖角我加入您的團隊**，一起為您的公司創造更高的收益！
+
+📧 **Email**：cmrforwork0001@gmail.com
